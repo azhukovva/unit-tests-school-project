@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xzhuka01/proj1/ivs_project_1/tdd_code.cpp
+tdd_code.h
+/home/xzhuka01/proj1/ivs_project_1/tdd_code.h
+
+/home/xzhuka01/proj1/ivs_project_1/tdd_code.h
+vector
+-
+stdexcept
+-
+iostream
+-
+

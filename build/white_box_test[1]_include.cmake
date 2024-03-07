@@ -1,0 +1,5 @@
+if(EXISTS "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test[1]_tests.cmake")
+  include("/home/xzhuka01/proj1/ivs_project_1/build/white_box_test[1]_tests.cmake")
+else()
+  add_test(white_box_test_NOT_BUILT white_box_test_NOT_BUILT)
+endif()

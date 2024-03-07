@@ -1,0 +1,1677 @@
+Start testing: Feb 23 14:35 CET
+----------------------------------------------------------
+1/62 Testing: EmptyTree.InsertNode
+1/62 Test: EmptyTree.InsertNode
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/black_box_test" "--gtest_filter=EmptyTree.InsertNode" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyTree.InsertNode" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.InsertNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.InsertNode
+[       OK ] EmptyTree.InsertNode (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.InsertNode" end time: Feb 23 14:35 CET
+"EmptyTree.InsertNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/62 Testing: EmptyTree.DeleteNode
+2/62 Test: EmptyTree.DeleteNode
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/black_box_test" "--gtest_filter=EmptyTree.DeleteNode" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyTree.DeleteNode" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.DeleteNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.DeleteNode
+[       OK ] EmptyTree.DeleteNode (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.DeleteNode" end time: Feb 23 14:35 CET
+"EmptyTree.DeleteNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/62 Testing: EmptyTree.FindNode
+3/62 Test: EmptyTree.FindNode
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/black_box_test" "--gtest_filter=EmptyTree.FindNode" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyTree.FindNode" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyTree.FindNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyTree
+[ RUN      ] EmptyTree.FindNode
+[       OK ] EmptyTree.FindNode (0 ms)
+[----------] 1 test from EmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyTree.FindNode" end time: Feb 23 14:35 CET
+"EmptyTree.FindNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/62 Testing: NonEmptyTree.InsertNode
+4/62 Test: NonEmptyTree.InsertNode
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/black_box_test" "--gtest_filter=NonEmptyTree.InsertNode" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyTree.InsertNode" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.InsertNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.InsertNode
+[       OK ] NonEmptyTree.InsertNode (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.InsertNode" end time: Feb 23 14:35 CET
+"NonEmptyTree.InsertNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/62 Testing: NonEmptyTree.DeleteNode
+5/62 Test: NonEmptyTree.DeleteNode
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/black_box_test" "--gtest_filter=NonEmptyTree.DeleteNode" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyTree.DeleteNode" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.DeleteNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.DeleteNode
+[       OK ] NonEmptyTree.DeleteNode (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.DeleteNode" end time: Feb 23 14:35 CET
+"NonEmptyTree.DeleteNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/62 Testing: NonEmptyTree.FindNode
+6/62 Test: NonEmptyTree.FindNode
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/black_box_test" "--gtest_filter=NonEmptyTree.FindNode" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyTree.FindNode" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyTree.FindNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyTree
+[ RUN      ] NonEmptyTree.FindNode
+[       OK ] NonEmptyTree.FindNode (0 ms)
+[----------] 1 test from NonEmptyTree (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyTree.FindNode" end time: Feb 23 14:35 CET
+"NonEmptyTree.FindNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/62 Testing: TreeAxioms.Axiom1
+7/62 Test: TreeAxioms.Axiom1
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/black_box_test" "--gtest_filter=TreeAxioms.Axiom1" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"TreeAxioms.Axiom1" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TreeAxioms.Axiom1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TreeAxioms
+[ RUN      ] TreeAxioms.Axiom1
+[       OK ] TreeAxioms.Axiom1 (0 ms)
+[----------] 1 test from TreeAxioms (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TreeAxioms.Axiom1" end time: Feb 23 14:35 CET
+"TreeAxioms.Axiom1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/62 Testing: TreeAxioms.Axiom2
+8/62 Test: TreeAxioms.Axiom2
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/black_box_test" "--gtest_filter=TreeAxioms.Axiom2" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"TreeAxioms.Axiom2" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TreeAxioms.Axiom2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TreeAxioms
+[ RUN      ] TreeAxioms.Axiom2
+[       OK ] TreeAxioms.Axiom2 (0 ms)
+[----------] 1 test from TreeAxioms (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TreeAxioms.Axiom2" end time: Feb 23 14:35 CET
+"TreeAxioms.Axiom2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/62 Testing: TreeAxioms.Axiom3
+9/62 Test: TreeAxioms.Axiom3
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/black_box_test" "--gtest_filter=TreeAxioms.Axiom3" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"TreeAxioms.Axiom3" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = TreeAxioms.Axiom3
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from TreeAxioms
+[ RUN      ] TreeAxioms.Axiom3
+[       OK ] TreeAxioms.Axiom3 (0 ms)
+[----------] 1 test from TreeAxioms (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"TreeAxioms.Axiom3" end time: Feb 23 14:35 CET
+"TreeAxioms.Axiom3" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/62 Testing: EmptyHashMap.hash_map_ctor
+10/62 Test: EmptyHashMap.hash_map_ctor
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=EmptyHashMap.hash_map_ctor" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyHashMap.hash_map_ctor" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyHashMap.hash_map_ctor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyHashMap
+[ RUN      ] EmptyHashMap.hash_map_ctor
+[       OK ] EmptyHashMap.hash_map_ctor (0 ms)
+[----------] 1 test from EmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyHashMap.hash_map_ctor" end time: Feb 23 14:35 CET
+"EmptyHashMap.hash_map_ctor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/62 Testing: EmptyHashMap.hash_map_dtor
+11/62 Test: EmptyHashMap.hash_map_dtor
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=EmptyHashMap.hash_map_dtor" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyHashMap.hash_map_dtor" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyHashMap.hash_map_dtor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyHashMap
+[ RUN      ] EmptyHashMap.hash_map_dtor
+[       OK ] EmptyHashMap.hash_map_dtor (0 ms)
+[----------] 1 test from EmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyHashMap.hash_map_dtor" end time: Feb 23 14:35 CET
+"EmptyHashMap.hash_map_dtor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/62 Testing: EmptyHashMap.hash_map_remove
+12/62 Test: EmptyHashMap.hash_map_remove
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=EmptyHashMap.hash_map_remove" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyHashMap.hash_map_remove" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyHashMap.hash_map_remove
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyHashMap
+[ RUN      ] EmptyHashMap.hash_map_remove
+[       OK ] EmptyHashMap.hash_map_remove (0 ms)
+[----------] 1 test from EmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyHashMap.hash_map_remove" end time: Feb 23 14:35 CET
+"EmptyHashMap.hash_map_remove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/62 Testing: EmptyHashMap.hash_map_size
+13/62 Test: EmptyHashMap.hash_map_size
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=EmptyHashMap.hash_map_size" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyHashMap.hash_map_size" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyHashMap.hash_map_size
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyHashMap
+[ RUN      ] EmptyHashMap.hash_map_size
+[       OK ] EmptyHashMap.hash_map_size (0 ms)
+[----------] 1 test from EmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyHashMap.hash_map_size" end time: Feb 23 14:35 CET
+"EmptyHashMap.hash_map_size" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/62 Testing: EmptyHashMap.hash_map_capacity
+14/62 Test: EmptyHashMap.hash_map_capacity
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=EmptyHashMap.hash_map_capacity" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyHashMap.hash_map_capacity" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyHashMap.hash_map_capacity
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyHashMap
+[ RUN      ] EmptyHashMap.hash_map_capacity
+[       OK ] EmptyHashMap.hash_map_capacity (0 ms)
+[----------] 1 test from EmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyHashMap.hash_map_capacity" end time: Feb 23 14:35 CET
+"EmptyHashMap.hash_map_capacity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/62 Testing: EmptyHashMap.hash_map_pop
+15/62 Test: EmptyHashMap.hash_map_pop
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=EmptyHashMap.hash_map_pop" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyHashMap.hash_map_pop" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyHashMap.hash_map_pop
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyHashMap
+[ RUN      ] EmptyHashMap.hash_map_pop
+[       OK ] EmptyHashMap.hash_map_pop (0 ms)
+[----------] 1 test from EmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyHashMap.hash_map_pop" end time: Feb 23 14:35 CET
+"EmptyHashMap.hash_map_pop" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/62 Testing: EmptyHashMap.hash_map_put
+16/62 Test: EmptyHashMap.hash_map_put
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=EmptyHashMap.hash_map_put" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyHashMap.hash_map_put" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyHashMap.hash_map_put
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyHashMap
+[ RUN      ] EmptyHashMap.hash_map_put
+[       OK ] EmptyHashMap.hash_map_put (0 ms)
+[----------] 1 test from EmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyHashMap.hash_map_put" end time: Feb 23 14:35 CET
+"EmptyHashMap.hash_map_put" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/62 Testing: EmptyHashMap.hash_map_get
+17/62 Test: EmptyHashMap.hash_map_get
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=EmptyHashMap.hash_map_get" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyHashMap.hash_map_get" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyHashMap.hash_map_get
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyHashMap
+[ RUN      ] EmptyHashMap.hash_map_get
+[       OK ] EmptyHashMap.hash_map_get (0 ms)
+[----------] 1 test from EmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyHashMap.hash_map_get" end time: Feb 23 14:35 CET
+"EmptyHashMap.hash_map_get" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/62 Testing: NonEmptyHashMap.hash_map_ctor
+18/62 Test: NonEmptyHashMap.hash_map_ctor
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=NonEmptyHashMap.hash_map_ctor" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyHashMap.hash_map_ctor" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyHashMap.hash_map_ctor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyHashMap
+[ RUN      ] NonEmptyHashMap.hash_map_ctor
+[       OK ] NonEmptyHashMap.hash_map_ctor (0 ms)
+[----------] 1 test from NonEmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyHashMap.hash_map_ctor" end time: Feb 23 14:35 CET
+"NonEmptyHashMap.hash_map_ctor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/62 Testing: NonEmptyHashMap.hash_map_dtor
+19/62 Test: NonEmptyHashMap.hash_map_dtor
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=NonEmptyHashMap.hash_map_dtor" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyHashMap.hash_map_dtor" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyHashMap.hash_map_dtor
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyHashMap
+[ RUN      ] NonEmptyHashMap.hash_map_dtor
+[       OK ] NonEmptyHashMap.hash_map_dtor (0 ms)
+[----------] 1 test from NonEmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyHashMap.hash_map_dtor" end time: Feb 23 14:35 CET
+"NonEmptyHashMap.hash_map_dtor" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/62 Testing: NonEmptyHashMap.hash_map_clear
+20/62 Test: NonEmptyHashMap.hash_map_clear
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=NonEmptyHashMap.hash_map_clear" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyHashMap.hash_map_clear" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyHashMap.hash_map_clear
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyHashMap
+[ RUN      ] NonEmptyHashMap.hash_map_clear
+[       OK ] NonEmptyHashMap.hash_map_clear (0 ms)
+[----------] 1 test from NonEmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyHashMap.hash_map_clear" end time: Feb 23 14:35 CET
+"NonEmptyHashMap.hash_map_clear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/62 Testing: NonEmptyHashMap.hash_map_remove
+21/62 Test: NonEmptyHashMap.hash_map_remove
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=NonEmptyHashMap.hash_map_remove" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyHashMap.hash_map_remove" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyHashMap.hash_map_remove
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyHashMap
+[ RUN      ] NonEmptyHashMap.hash_map_remove
+[       OK ] NonEmptyHashMap.hash_map_remove (0 ms)
+[----------] 1 test from NonEmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyHashMap.hash_map_remove" end time: Feb 23 14:35 CET
+"NonEmptyHashMap.hash_map_remove" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/62 Testing: NonEmptyHashMap.hash_map_reserve
+22/62 Test: NonEmptyHashMap.hash_map_reserve
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=NonEmptyHashMap.hash_map_reserve" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyHashMap.hash_map_reserve" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyHashMap.hash_map_reserve
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyHashMap
+[ RUN      ] NonEmptyHashMap.hash_map_reserve
+[       OK ] NonEmptyHashMap.hash_map_reserve (0 ms)
+[----------] 1 test from NonEmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyHashMap.hash_map_reserve" end time: Feb 23 14:35 CET
+"NonEmptyHashMap.hash_map_reserve" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/62 Testing: NonEmptyHashMap.hash_map_size
+23/62 Test: NonEmptyHashMap.hash_map_size
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=NonEmptyHashMap.hash_map_size" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyHashMap.hash_map_size" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyHashMap.hash_map_size
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyHashMap
+[ RUN      ] NonEmptyHashMap.hash_map_size
+[       OK ] NonEmptyHashMap.hash_map_size (0 ms)
+[----------] 1 test from NonEmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyHashMap.hash_map_size" end time: Feb 23 14:35 CET
+"NonEmptyHashMap.hash_map_size" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/62 Testing: NonEmptyHashMap.hash_map_capacity
+24/62 Test: NonEmptyHashMap.hash_map_capacity
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=NonEmptyHashMap.hash_map_capacity" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyHashMap.hash_map_capacity" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyHashMap.hash_map_capacity
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyHashMap
+[ RUN      ] NonEmptyHashMap.hash_map_capacity
+[       OK ] NonEmptyHashMap.hash_map_capacity (0 ms)
+[----------] 1 test from NonEmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyHashMap.hash_map_capacity" end time: Feb 23 14:35 CET
+"NonEmptyHashMap.hash_map_capacity" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/62 Testing: NonEmptyHashMap.hash_map_contains
+25/62 Test: NonEmptyHashMap.hash_map_contains
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=NonEmptyHashMap.hash_map_contains" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyHashMap.hash_map_contains" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyHashMap.hash_map_contains
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyHashMap
+[ RUN      ] NonEmptyHashMap.hash_map_contains
+[       OK ] NonEmptyHashMap.hash_map_contains (0 ms)
+[----------] 1 test from NonEmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyHashMap.hash_map_contains" end time: Feb 23 14:35 CET
+"NonEmptyHashMap.hash_map_contains" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/62 Testing: NonEmptyHashMap.hash_map_put
+26/62 Test: NonEmptyHashMap.hash_map_put
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=NonEmptyHashMap.hash_map_put" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyHashMap.hash_map_put" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyHashMap.hash_map_put
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyHashMap
+[ RUN      ] NonEmptyHashMap.hash_map_put
+[       OK ] NonEmptyHashMap.hash_map_put (0 ms)
+[----------] 1 test from NonEmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyHashMap.hash_map_put" end time: Feb 23 14:35 CET
+"NonEmptyHashMap.hash_map_put" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/62 Testing: NonEmptyHashMap.hash_map_get
+27/62 Test: NonEmptyHashMap.hash_map_get
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=NonEmptyHashMap.hash_map_get" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyHashMap.hash_map_get" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyHashMap.hash_map_get
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyHashMap
+[ RUN      ] NonEmptyHashMap.hash_map_get
+[       OK ] NonEmptyHashMap.hash_map_get (0 ms)
+[----------] 1 test from NonEmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyHashMap.hash_map_get" end time: Feb 23 14:35 CET
+"NonEmptyHashMap.hash_map_get" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/62 Testing: NonEmptyHashMap.hash_map_pop
+28/62 Test: NonEmptyHashMap.hash_map_pop
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=NonEmptyHashMap.hash_map_pop" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyHashMap.hash_map_pop" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyHashMap.hash_map_pop
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyHashMap
+[ RUN      ] NonEmptyHashMap.hash_map_pop
+[       OK ] NonEmptyHashMap.hash_map_pop (0 ms)
+[----------] 1 test from NonEmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyHashMap.hash_map_pop" end time: Feb 23 14:35 CET
+"NonEmptyHashMap.hash_map_pop" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/62 Testing: NonEmptyHashMap.Collision
+29/62 Test: NonEmptyHashMap.Collision
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/white_box_test" "--gtest_filter=NonEmptyHashMap.Collision" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyHashMap.Collision" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyHashMap.Collision
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyHashMap
+[ RUN      ] NonEmptyHashMap.Collision
+[       OK ] NonEmptyHashMap.Collision (0 ms)
+[----------] 1 test from NonEmptyHashMap (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyHashMap.Collision" end time: Feb 23 14:35 CET
+"NonEmptyHashMap.Collision" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/62 Testing: NonEmptyGraph.nodes
+30/62 Test: NonEmptyGraph.nodes
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=NonEmptyGraph.nodes" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyGraph.nodes" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyGraph.nodes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyGraph
+[ RUN      ] NonEmptyGraph.nodes
+[       OK ] NonEmptyGraph.nodes (0 ms)
+[----------] 1 test from NonEmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyGraph.nodes" end time: Feb 23 14:35 CET
+"NonEmptyGraph.nodes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/62 Testing: NonEmptyGraph.edges
+31/62 Test: NonEmptyGraph.edges
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=NonEmptyGraph.edges" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyGraph.edges" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyGraph.edges
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyGraph
+[ RUN      ] NonEmptyGraph.edges
+[       OK ] NonEmptyGraph.edges (0 ms)
+[----------] 1 test from NonEmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyGraph.edges" end time: Feb 23 14:35 CET
+"NonEmptyGraph.edges" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/62 Testing: NonEmptyGraph.addNode
+32/62 Test: NonEmptyGraph.addNode
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=NonEmptyGraph.addNode" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyGraph.addNode" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyGraph.addNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyGraph
+[ RUN      ] NonEmptyGraph.addNode
+[       OK ] NonEmptyGraph.addNode (0 ms)
+[----------] 1 test from NonEmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyGraph.addNode" end time: Feb 23 14:35 CET
+"NonEmptyGraph.addNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/62 Testing: NonEmptyGraph.addEdge
+33/62 Test: NonEmptyGraph.addEdge
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=NonEmptyGraph.addEdge" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyGraph.addEdge" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyGraph.addEdge
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyGraph
+[ RUN      ] NonEmptyGraph.addEdge
+[       OK ] NonEmptyGraph.addEdge (0 ms)
+[----------] 1 test from NonEmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyGraph.addEdge" end time: Feb 23 14:35 CET
+"NonEmptyGraph.addEdge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/62 Testing: NonEmptyGraph.addMultipleEdges
+34/62 Test: NonEmptyGraph.addMultipleEdges
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=NonEmptyGraph.addMultipleEdges" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyGraph.addMultipleEdges" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyGraph.addMultipleEdges
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyGraph
+[ RUN      ] NonEmptyGraph.addMultipleEdges
+[       OK ] NonEmptyGraph.addMultipleEdges (0 ms)
+[----------] 1 test from NonEmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyGraph.addMultipleEdges" end time: Feb 23 14:35 CET
+"NonEmptyGraph.addMultipleEdges" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/62 Testing: NonEmptyGraph.getNode
+35/62 Test: NonEmptyGraph.getNode
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=NonEmptyGraph.getNode" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyGraph.getNode" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyGraph.getNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyGraph
+[ RUN      ] NonEmptyGraph.getNode
+[       OK ] NonEmptyGraph.getNode (0 ms)
+[----------] 1 test from NonEmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyGraph.getNode" end time: Feb 23 14:35 CET
+"NonEmptyGraph.getNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/62 Testing: NonEmptyGraph.containsEdge
+36/62 Test: NonEmptyGraph.containsEdge
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=NonEmptyGraph.containsEdge" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyGraph.containsEdge" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyGraph.containsEdge
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyGraph
+[ RUN      ] NonEmptyGraph.containsEdge
+[       OK ] NonEmptyGraph.containsEdge (0 ms)
+[----------] 1 test from NonEmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyGraph.containsEdge" end time: Feb 23 14:35 CET
+"NonEmptyGraph.containsEdge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/62 Testing: NonEmptyGraph.removeNode
+37/62 Test: NonEmptyGraph.removeNode
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=NonEmptyGraph.removeNode" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyGraph.removeNode" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyGraph.removeNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyGraph
+[ RUN      ] NonEmptyGraph.removeNode
+[       OK ] NonEmptyGraph.removeNode (0 ms)
+[----------] 1 test from NonEmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyGraph.removeNode" end time: Feb 23 14:35 CET
+"NonEmptyGraph.removeNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/62 Testing: NonEmptyGraph.removeEdge
+38/62 Test: NonEmptyGraph.removeEdge
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=NonEmptyGraph.removeEdge" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyGraph.removeEdge" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyGraph.removeEdge
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyGraph
+[ RUN      ] NonEmptyGraph.removeEdge
+[       OK ] NonEmptyGraph.removeEdge (0 ms)
+[----------] 1 test from NonEmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyGraph.removeEdge" end time: Feb 23 14:35 CET
+"NonEmptyGraph.removeEdge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/62 Testing: NonEmptyGraph.nodeCount
+39/62 Test: NonEmptyGraph.nodeCount
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=NonEmptyGraph.nodeCount" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyGraph.nodeCount" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyGraph.nodeCount
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyGraph
+[ RUN      ] NonEmptyGraph.nodeCount
+[       OK ] NonEmptyGraph.nodeCount (0 ms)
+[----------] 1 test from NonEmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyGraph.nodeCount" end time: Feb 23 14:35 CET
+"NonEmptyGraph.nodeCount" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/62 Testing: NonEmptyGraph.edgeCount
+40/62 Test: NonEmptyGraph.edgeCount
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=NonEmptyGraph.edgeCount" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyGraph.edgeCount" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyGraph.edgeCount
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyGraph
+[ RUN      ] NonEmptyGraph.edgeCount
+[       OK ] NonEmptyGraph.edgeCount (0 ms)
+[----------] 1 test from NonEmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyGraph.edgeCount" end time: Feb 23 14:35 CET
+"NonEmptyGraph.edgeCount" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/62 Testing: NonEmptyGraph.nodeDegree
+41/62 Test: NonEmptyGraph.nodeDegree
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=NonEmptyGraph.nodeDegree" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyGraph.nodeDegree" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyGraph.nodeDegree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyGraph
+[ RUN      ] NonEmptyGraph.nodeDegree
+[       OK ] NonEmptyGraph.nodeDegree (0 ms)
+[----------] 1 test from NonEmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyGraph.nodeDegree" end time: Feb 23 14:35 CET
+"NonEmptyGraph.nodeDegree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/62 Testing: NonEmptyGraph.graphDegree
+42/62 Test: NonEmptyGraph.graphDegree
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=NonEmptyGraph.graphDegree" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyGraph.graphDegree" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyGraph.graphDegree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyGraph
+[ RUN      ] NonEmptyGraph.graphDegree
+[       OK ] NonEmptyGraph.graphDegree (0 ms)
+[----------] 1 test from NonEmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyGraph.graphDegree" end time: Feb 23 14:35 CET
+"NonEmptyGraph.graphDegree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/62 Testing: NonEmptyGraph.coloring
+43/62 Test: NonEmptyGraph.coloring
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=NonEmptyGraph.coloring" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyGraph.coloring" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyGraph.coloring
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyGraph
+[ RUN      ] NonEmptyGraph.coloring
+[       OK ] NonEmptyGraph.coloring (0 ms)
+[----------] 1 test from NonEmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyGraph.coloring" end time: Feb 23 14:35 CET
+"NonEmptyGraph.coloring" time elapsed: 00:00:00
+----------------------------------------------------------
+
+44/62 Testing: NonEmptyGraph.clear
+44/62 Test: NonEmptyGraph.clear
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=NonEmptyGraph.clear" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"NonEmptyGraph.clear" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NonEmptyGraph.clear
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NonEmptyGraph
+[ RUN      ] NonEmptyGraph.clear
+[       OK ] NonEmptyGraph.clear (0 ms)
+[----------] 1 test from NonEmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"NonEmptyGraph.clear" end time: Feb 23 14:35 CET
+"NonEmptyGraph.clear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/62 Testing: EmptyGraph.nodes
+45/62 Test: EmptyGraph.nodes
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=EmptyGraph.nodes" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyGraph.nodes" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyGraph.nodes
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyGraph
+[ RUN      ] EmptyGraph.nodes
+[       OK ] EmptyGraph.nodes (0 ms)
+[----------] 1 test from EmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyGraph.nodes" end time: Feb 23 14:35 CET
+"EmptyGraph.nodes" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/62 Testing: EmptyGraph.edges
+46/62 Test: EmptyGraph.edges
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=EmptyGraph.edges" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyGraph.edges" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyGraph.edges
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyGraph
+[ RUN      ] EmptyGraph.edges
+[       OK ] EmptyGraph.edges (0 ms)
+[----------] 1 test from EmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyGraph.edges" end time: Feb 23 14:35 CET
+"EmptyGraph.edges" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/62 Testing: EmptyGraph.addNode
+47/62 Test: EmptyGraph.addNode
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=EmptyGraph.addNode" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyGraph.addNode" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyGraph.addNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyGraph
+[ RUN      ] EmptyGraph.addNode
+[       OK ] EmptyGraph.addNode (0 ms)
+[----------] 1 test from EmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyGraph.addNode" end time: Feb 23 14:35 CET
+"EmptyGraph.addNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/62 Testing: EmptyGraph.addEdge
+48/62 Test: EmptyGraph.addEdge
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=EmptyGraph.addEdge" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyGraph.addEdge" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyGraph.addEdge
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyGraph
+[ RUN      ] EmptyGraph.addEdge
+[       OK ] EmptyGraph.addEdge (0 ms)
+[----------] 1 test from EmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyGraph.addEdge" end time: Feb 23 14:35 CET
+"EmptyGraph.addEdge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/62 Testing: EmptyGraph.addMultipleEdges
+49/62 Test: EmptyGraph.addMultipleEdges
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=EmptyGraph.addMultipleEdges" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyGraph.addMultipleEdges" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyGraph.addMultipleEdges
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyGraph
+[ RUN      ] EmptyGraph.addMultipleEdges
+[       OK ] EmptyGraph.addMultipleEdges (0 ms)
+[----------] 1 test from EmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyGraph.addMultipleEdges" end time: Feb 23 14:35 CET
+"EmptyGraph.addMultipleEdges" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/62 Testing: EmptyGraph.getNode
+50/62 Test: EmptyGraph.getNode
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=EmptyGraph.getNode" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyGraph.getNode" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyGraph.getNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyGraph
+[ RUN      ] EmptyGraph.getNode
+[       OK ] EmptyGraph.getNode (0 ms)
+[----------] 1 test from EmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyGraph.getNode" end time: Feb 23 14:35 CET
+"EmptyGraph.getNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/62 Testing: EmptyGraph.containsEdge
+51/62 Test: EmptyGraph.containsEdge
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=EmptyGraph.containsEdge" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyGraph.containsEdge" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyGraph.containsEdge
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyGraph
+[ RUN      ] EmptyGraph.containsEdge
+[       OK ] EmptyGraph.containsEdge (0 ms)
+[----------] 1 test from EmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyGraph.containsEdge" end time: Feb 23 14:35 CET
+"EmptyGraph.containsEdge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/62 Testing: EmptyGraph.removeNode
+52/62 Test: EmptyGraph.removeNode
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=EmptyGraph.removeNode" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyGraph.removeNode" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyGraph.removeNode
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyGraph
+[ RUN      ] EmptyGraph.removeNode
+[       OK ] EmptyGraph.removeNode (0 ms)
+[----------] 1 test from EmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyGraph.removeNode" end time: Feb 23 14:35 CET
+"EmptyGraph.removeNode" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/62 Testing: EmptyGraph.removeEdge
+53/62 Test: EmptyGraph.removeEdge
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=EmptyGraph.removeEdge" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyGraph.removeEdge" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyGraph.removeEdge
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyGraph
+[ RUN      ] EmptyGraph.removeEdge
+[       OK ] EmptyGraph.removeEdge (0 ms)
+[----------] 1 test from EmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyGraph.removeEdge" end time: Feb 23 14:35 CET
+"EmptyGraph.removeEdge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/62 Testing: EmptyGraph.nodeCount
+54/62 Test: EmptyGraph.nodeCount
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=EmptyGraph.nodeCount" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyGraph.nodeCount" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyGraph.nodeCount
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyGraph
+[ RUN      ] EmptyGraph.nodeCount
+[       OK ] EmptyGraph.nodeCount (0 ms)
+[----------] 1 test from EmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyGraph.nodeCount" end time: Feb 23 14:35 CET
+"EmptyGraph.nodeCount" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/62 Testing: EmptyGraph.edgeCount
+55/62 Test: EmptyGraph.edgeCount
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=EmptyGraph.edgeCount" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyGraph.edgeCount" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyGraph.edgeCount
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyGraph
+[ RUN      ] EmptyGraph.edgeCount
+[       OK ] EmptyGraph.edgeCount (0 ms)
+[----------] 1 test from EmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyGraph.edgeCount" end time: Feb 23 14:35 CET
+"EmptyGraph.edgeCount" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/62 Testing: EmptyGraph.nodeDegree
+56/62 Test: EmptyGraph.nodeDegree
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=EmptyGraph.nodeDegree" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyGraph.nodeDegree" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyGraph.nodeDegree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyGraph
+[ RUN      ] EmptyGraph.nodeDegree
+[       OK ] EmptyGraph.nodeDegree (0 ms)
+[----------] 1 test from EmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyGraph.nodeDegree" end time: Feb 23 14:35 CET
+"EmptyGraph.nodeDegree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/62 Testing: EmptyGraph.graphDegree
+57/62 Test: EmptyGraph.graphDegree
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=EmptyGraph.graphDegree" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyGraph.graphDegree" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyGraph.graphDegree
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyGraph
+[ RUN      ] EmptyGraph.graphDegree
+[       OK ] EmptyGraph.graphDegree (0 ms)
+[----------] 1 test from EmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyGraph.graphDegree" end time: Feb 23 14:35 CET
+"EmptyGraph.graphDegree" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/62 Testing: EmptyGraph.coloring
+58/62 Test: EmptyGraph.coloring
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=EmptyGraph.coloring" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyGraph.coloring" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyGraph.coloring
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyGraph
+[ RUN      ] EmptyGraph.coloring
+[       OK ] EmptyGraph.coloring (0 ms)
+[----------] 1 test from EmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyGraph.coloring" end time: Feb 23 14:35 CET
+"EmptyGraph.coloring" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/62 Testing: EmptyGraph.clear
+59/62 Test: EmptyGraph.clear
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=EmptyGraph.clear" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"EmptyGraph.clear" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = EmptyGraph.clear
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from EmptyGraph
+[ RUN      ] EmptyGraph.clear
+[       OK ] EmptyGraph.clear (0 ms)
+[----------] 1 test from EmptyGraph (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"EmptyGraph.clear" end time: Feb 23 14:35 CET
+"EmptyGraph.clear" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/62 Testing: Edges.equal
+60/62 Test: Edges.equal
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=Edges.equal" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"Edges.equal" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Edges.equal
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Edges
+[ RUN      ] Edges.equal
+[       OK ] Edges.equal (0 ms)
+[----------] 1 test from Edges (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Edges.equal" end time: Feb 23 14:35 CET
+"Edges.equal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/62 Testing: Edges.nonEqual
+61/62 Test: Edges.nonEqual
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=Edges.nonEqual" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"Edges.nonEqual" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Edges.nonEqual
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Edges
+[ RUN      ] Edges.nonEqual
+[       OK ] Edges.nonEqual (0 ms)
+[----------] 1 test from Edges (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Edges.nonEqual" end time: Feb 23 14:35 CET
+"Edges.nonEqual" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/62 Testing: Edges.toStringStream
+62/62 Test: Edges.toStringStream
+Command: "/home/xzhuka01/proj1/ivs_project_1/build/tdd_test" "--gtest_filter=Edges.toStringStream" "--gtest_also_run_disabled_tests"
+Directory: /home/xzhuka01/proj1/ivs_project_1/build
+"Edges.toStringStream" start time: Feb 23 14:35 CET
+Output:
+----------------------------------------------------------
+Running main() from /home/xzhuka01/proj1/ivs_project_1/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = Edges.toStringStream
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from Edges
+[ RUN      ] Edges.toStringStream
+[       OK ] Edges.toStringStream (0 ms)
+[----------] 1 test from Edges (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Edges.toStringStream" end time: Feb 23 14:35 CET
+"Edges.toStringStream" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Feb 23 14:35 CET
